@@ -1,0 +1,11 @@
+
+const RamaU2 = ()=>{
+
+    return(
+        <>
+        <h4>Una nueva rama creada desde ubuntu</h4>
+        </>
+    )
+}
+
+export default RamaU2
